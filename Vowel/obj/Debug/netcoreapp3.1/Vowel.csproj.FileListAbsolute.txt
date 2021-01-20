@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\Vowel\bin\Debug\netcoreapp3.1\Vowel.exe
+C:\Users\Ashton\source\repos\Vowel\bin\Debug\netcoreapp3.1\Vowel.deps.json
+C:\Users\Ashton\source\repos\Vowel\bin\Debug\netcoreapp3.1\Vowel.runtimeconfig.json
+C:\Users\Ashton\source\repos\Vowel\bin\Debug\netcoreapp3.1\Vowel.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\Vowel\bin\Debug\netcoreapp3.1\Vowel.dll
+C:\Users\Ashton\source\repos\Vowel\bin\Debug\netcoreapp3.1\Vowel.pdb
+C:\Users\Ashton\source\repos\Vowel\obj\Debug\netcoreapp3.1\Vowel.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\Vowel\obj\Debug\netcoreapp3.1\Vowel.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\Vowel\obj\Debug\netcoreapp3.1\Vowel.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\Vowel\obj\Debug\netcoreapp3.1\Vowel.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\Vowel\obj\Debug\netcoreapp3.1\Vowel.dll
+C:\Users\Ashton\source\repos\Vowel\obj\Debug\netcoreapp3.1\Vowel.pdb
+C:\Users\Ashton\source\repos\Vowel\obj\Debug\netcoreapp3.1\Vowel.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\itsMagic\bin\Debug\netcoreapp3.1\itsMagic.exe
+C:\Users\Ashton\source\repos\itsMagic\bin\Debug\netcoreapp3.1\itsMagic.deps.json
+C:\Users\Ashton\source\repos\itsMagic\bin\Debug\netcoreapp3.1\itsMagic.runtimeconfig.json
+C:\Users\Ashton\source\repos\itsMagic\bin\Debug\netcoreapp3.1\itsMagic.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\itsMagic\bin\Debug\netcoreapp3.1\itsMagic.dll
+C:\Users\Ashton\source\repos\itsMagic\bin\Debug\netcoreapp3.1\itsMagic.pdb
+C:\Users\Ashton\source\repos\itsMagic\obj\Debug\netcoreapp3.1\itsMagic.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\itsMagic\obj\Debug\netcoreapp3.1\itsMagic.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\itsMagic\obj\Debug\netcoreapp3.1\itsMagic.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\itsMagic\obj\Debug\netcoreapp3.1\itsMagic.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\itsMagic\obj\Debug\netcoreapp3.1\itsMagic.dll
+C:\Users\Ashton\source\repos\itsMagic\obj\Debug\netcoreapp3.1\itsMagic.pdb
+C:\Users\Ashton\source\repos\itsMagic\obj\Debug\netcoreapp3.1\itsMagic.genruntimeconfig.cache

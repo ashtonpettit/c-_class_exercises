@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\Pangram\bin\Debug\netcoreapp3.1\Pangram.exe
+C:\Users\Ashton\source\repos\Pangram\bin\Debug\netcoreapp3.1\Pangram.deps.json
+C:\Users\Ashton\source\repos\Pangram\bin\Debug\netcoreapp3.1\Pangram.runtimeconfig.json
+C:\Users\Ashton\source\repos\Pangram\bin\Debug\netcoreapp3.1\Pangram.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\Pangram\bin\Debug\netcoreapp3.1\Pangram.dll
+C:\Users\Ashton\source\repos\Pangram\bin\Debug\netcoreapp3.1\Pangram.pdb
+C:\Users\Ashton\source\repos\Pangram\obj\Debug\netcoreapp3.1\Pangram.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\Pangram\obj\Debug\netcoreapp3.1\Pangram.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\Pangram\obj\Debug\netcoreapp3.1\Pangram.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\Pangram\obj\Debug\netcoreapp3.1\Pangram.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\Pangram\obj\Debug\netcoreapp3.1\Pangram.dll
+C:\Users\Ashton\source\repos\Pangram\obj\Debug\netcoreapp3.1\Pangram.pdb
+C:\Users\Ashton\source\repos\Pangram\obj\Debug\netcoreapp3.1\Pangram.genruntimeconfig.cache

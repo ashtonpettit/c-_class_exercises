@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Negative, Positive, or Zero/1.0.0": {
+        "runtime": {
+          "Negative, Positive, or Zero.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Negative, Positive, or Zero/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

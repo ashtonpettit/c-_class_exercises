@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\primeNumbers\bin\Debug\netcoreapp3.1\primeNumbers.exe
+C:\Users\Ashton\source\repos\primeNumbers\bin\Debug\netcoreapp3.1\primeNumbers.deps.json
+C:\Users\Ashton\source\repos\primeNumbers\bin\Debug\netcoreapp3.1\primeNumbers.runtimeconfig.json
+C:\Users\Ashton\source\repos\primeNumbers\bin\Debug\netcoreapp3.1\primeNumbers.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\primeNumbers\bin\Debug\netcoreapp3.1\primeNumbers.dll
+C:\Users\Ashton\source\repos\primeNumbers\bin\Debug\netcoreapp3.1\primeNumbers.pdb
+C:\Users\Ashton\source\repos\primeNumbers\obj\Debug\netcoreapp3.1\primeNumbers.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\primeNumbers\obj\Debug\netcoreapp3.1\primeNumbers.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\primeNumbers\obj\Debug\netcoreapp3.1\primeNumbers.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\primeNumbers\obj\Debug\netcoreapp3.1\primeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\primeNumbers\obj\Debug\netcoreapp3.1\primeNumbers.dll
+C:\Users\Ashton\source\repos\primeNumbers\obj\Debug\netcoreapp3.1\primeNumbers.pdb
+C:\Users\Ashton\source\repos\primeNumbers\obj\Debug\netcoreapp3.1\primeNumbers.genruntimeconfig.cache

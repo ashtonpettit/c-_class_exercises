@@ -1,0 +1,14 @@
+C:\Users\Ashton\source\repos\SpellItOut\bin\Debug\netcoreapp3.1\spells.txt
+C:\Users\Ashton\source\repos\SpellItOut\bin\Debug\netcoreapp3.1\SpellItOut.exe
+C:\Users\Ashton\source\repos\SpellItOut\bin\Debug\netcoreapp3.1\SpellItOut.deps.json
+C:\Users\Ashton\source\repos\SpellItOut\bin\Debug\netcoreapp3.1\SpellItOut.runtimeconfig.json
+C:\Users\Ashton\source\repos\SpellItOut\bin\Debug\netcoreapp3.1\SpellItOut.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\SpellItOut\bin\Debug\netcoreapp3.1\SpellItOut.dll
+C:\Users\Ashton\source\repos\SpellItOut\bin\Debug\netcoreapp3.1\SpellItOut.pdb
+C:\Users\Ashton\source\repos\SpellItOut\obj\Debug\netcoreapp3.1\SpellItOut.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\SpellItOut\obj\Debug\netcoreapp3.1\SpellItOut.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\SpellItOut\obj\Debug\netcoreapp3.1\SpellItOut.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\SpellItOut\obj\Debug\netcoreapp3.1\SpellItOut.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\SpellItOut\obj\Debug\netcoreapp3.1\SpellItOut.dll
+C:\Users\Ashton\source\repos\SpellItOut\obj\Debug\netcoreapp3.1\SpellItOut.pdb
+C:\Users\Ashton\source\repos\SpellItOut\obj\Debug\netcoreapp3.1\SpellItOut.genruntimeconfig.cache

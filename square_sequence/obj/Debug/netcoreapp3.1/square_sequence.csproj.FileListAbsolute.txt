@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\square_sequence\bin\Debug\netcoreapp3.1\square_sequence.exe
+C:\Users\Ashton\source\repos\square_sequence\bin\Debug\netcoreapp3.1\square_sequence.deps.json
+C:\Users\Ashton\source\repos\square_sequence\bin\Debug\netcoreapp3.1\square_sequence.runtimeconfig.json
+C:\Users\Ashton\source\repos\square_sequence\bin\Debug\netcoreapp3.1\square_sequence.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\square_sequence\bin\Debug\netcoreapp3.1\square_sequence.dll
+C:\Users\Ashton\source\repos\square_sequence\bin\Debug\netcoreapp3.1\square_sequence.pdb
+C:\Users\Ashton\source\repos\square_sequence\obj\Debug\netcoreapp3.1\square_sequence.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\square_sequence\obj\Debug\netcoreapp3.1\square_sequence.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\square_sequence\obj\Debug\netcoreapp3.1\square_sequence.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\square_sequence\obj\Debug\netcoreapp3.1\square_sequence.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\square_sequence\obj\Debug\netcoreapp3.1\square_sequence.dll
+C:\Users\Ashton\source\repos\square_sequence\obj\Debug\netcoreapp3.1\square_sequence.pdb
+C:\Users\Ashton\source\repos\square_sequence\obj\Debug\netcoreapp3.1\square_sequence.genruntimeconfig.cache

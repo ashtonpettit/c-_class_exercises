@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\pendulum\bin\Debug\netcoreapp3.1\pendulum.exe
+C:\Users\Ashton\source\repos\pendulum\bin\Debug\netcoreapp3.1\pendulum.deps.json
+C:\Users\Ashton\source\repos\pendulum\bin\Debug\netcoreapp3.1\pendulum.runtimeconfig.json
+C:\Users\Ashton\source\repos\pendulum\bin\Debug\netcoreapp3.1\pendulum.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\pendulum\bin\Debug\netcoreapp3.1\pendulum.dll
+C:\Users\Ashton\source\repos\pendulum\bin\Debug\netcoreapp3.1\pendulum.pdb
+C:\Users\Ashton\source\repos\pendulum\obj\Debug\netcoreapp3.1\pendulum.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\pendulum\obj\Debug\netcoreapp3.1\pendulum.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\pendulum\obj\Debug\netcoreapp3.1\pendulum.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\pendulum\obj\Debug\netcoreapp3.1\pendulum.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\pendulum\obj\Debug\netcoreapp3.1\pendulum.dll
+C:\Users\Ashton\source\repos\pendulum\obj\Debug\netcoreapp3.1\pendulum.pdb
+C:\Users\Ashton\source\repos\pendulum\obj\Debug\netcoreapp3.1\pendulum.genruntimeconfig.cache

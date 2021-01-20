@@ -1,0 +1,14 @@
+C:\Users\Ashton\source\repos\AforApple\bin\Debug\netcoreapp3.1\AforApple.exe
+C:\Users\Ashton\source\repos\AforApple\bin\Debug\netcoreapp3.1\AforApple.deps.json
+C:\Users\Ashton\source\repos\AforApple\bin\Debug\netcoreapp3.1\AforApple.runtimeconfig.json
+C:\Users\Ashton\source\repos\AforApple\bin\Debug\netcoreapp3.1\AforApple.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\AforApple\bin\Debug\netcoreapp3.1\AforApple.dll
+C:\Users\Ashton\source\repos\AforApple\bin\Debug\netcoreapp3.1\AforApple.pdb
+C:\Users\Ashton\source\repos\AforApple\obj\Debug\netcoreapp3.1\AforApple.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\AforApple\obj\Debug\netcoreapp3.1\AforApple.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\AforApple\obj\Debug\netcoreapp3.1\AforApple.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\AforApple\obj\Debug\netcoreapp3.1\AforApple.dll
+C:\Users\Ashton\source\repos\AforApple\obj\Debug\netcoreapp3.1\AforApple.pdb
+C:\Users\Ashton\source\repos\AforApple\obj\Debug\netcoreapp3.1\AforApple.genruntimeconfig.cache
+C:\Users\Ashton\source\repos\AforApple\bin\Debug\netcoreapp3.1\fruit.txt
+C:\Users\Ashton\source\repos\AforApple\obj\Debug\netcoreapp3.1\AforApple.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\fruit\bin\Debug\netcoreapp3.1\fruit.exe
+C:\Users\Ashton\source\repos\fruit\bin\Debug\netcoreapp3.1\fruit.deps.json
+C:\Users\Ashton\source\repos\fruit\bin\Debug\netcoreapp3.1\fruit.runtimeconfig.json
+C:\Users\Ashton\source\repos\fruit\bin\Debug\netcoreapp3.1\fruit.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\fruit\bin\Debug\netcoreapp3.1\fruit.dll
+C:\Users\Ashton\source\repos\fruit\bin\Debug\netcoreapp3.1\fruit.pdb
+C:\Users\Ashton\source\repos\fruit\obj\Debug\netcoreapp3.1\fruit.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\fruit\obj\Debug\netcoreapp3.1\fruit.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\fruit\obj\Debug\netcoreapp3.1\fruit.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\fruit\obj\Debug\netcoreapp3.1\fruit.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\fruit\obj\Debug\netcoreapp3.1\fruit.dll
+C:\Users\Ashton\source\repos\fruit\obj\Debug\netcoreapp3.1\fruit.pdb
+C:\Users\Ashton\source\repos\fruit\obj\Debug\netcoreapp3.1\fruit.genruntimeconfig.cache

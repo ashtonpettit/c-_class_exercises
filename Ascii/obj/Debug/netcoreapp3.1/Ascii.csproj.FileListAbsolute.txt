@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\Ascii\bin\Debug\netcoreapp3.1\Ascii.exe
+C:\Users\Ashton\source\repos\Ascii\bin\Debug\netcoreapp3.1\Ascii.deps.json
+C:\Users\Ashton\source\repos\Ascii\bin\Debug\netcoreapp3.1\Ascii.runtimeconfig.json
+C:\Users\Ashton\source\repos\Ascii\bin\Debug\netcoreapp3.1\Ascii.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\Ascii\bin\Debug\netcoreapp3.1\Ascii.dll
+C:\Users\Ashton\source\repos\Ascii\bin\Debug\netcoreapp3.1\Ascii.pdb
+C:\Users\Ashton\source\repos\Ascii\obj\Debug\netcoreapp3.1\Ascii.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\Ascii\obj\Debug\netcoreapp3.1\Ascii.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\Ascii\obj\Debug\netcoreapp3.1\Ascii.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\Ascii\obj\Debug\netcoreapp3.1\Ascii.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\Ascii\obj\Debug\netcoreapp3.1\Ascii.dll
+C:\Users\Ashton\source\repos\Ascii\obj\Debug\netcoreapp3.1\Ascii.pdb
+C:\Users\Ashton\source\repos\Ascii\obj\Debug\netcoreapp3.1\Ascii.genruntimeconfig.cache

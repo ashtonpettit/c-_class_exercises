@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\Methods_Decembers\bin\Debug\netcoreapp3.1\Methods_Decembers.exe
+C:\Users\Ashton\source\repos\Methods_Decembers\bin\Debug\netcoreapp3.1\Methods_Decembers.deps.json
+C:\Users\Ashton\source\repos\Methods_Decembers\bin\Debug\netcoreapp3.1\Methods_Decembers.runtimeconfig.json
+C:\Users\Ashton\source\repos\Methods_Decembers\bin\Debug\netcoreapp3.1\Methods_Decembers.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\Methods_Decembers\bin\Debug\netcoreapp3.1\Methods_Decembers.dll
+C:\Users\Ashton\source\repos\Methods_Decembers\bin\Debug\netcoreapp3.1\Methods_Decembers.pdb
+C:\Users\Ashton\source\repos\Methods_Decembers\obj\Debug\netcoreapp3.1\Methods_Decembers.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\Methods_Decembers\obj\Debug\netcoreapp3.1\Methods_Decembers.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\Methods_Decembers\obj\Debug\netcoreapp3.1\Methods_Decembers.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\Methods_Decembers\obj\Debug\netcoreapp3.1\Methods_Decembers.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\Methods_Decembers\obj\Debug\netcoreapp3.1\Methods_Decembers.dll
+C:\Users\Ashton\source\repos\Methods_Decembers\obj\Debug\netcoreapp3.1\Methods_Decembers.pdb
+C:\Users\Ashton\source\repos\Methods_Decembers\obj\Debug\netcoreapp3.1\Methods_Decembers.genruntimeconfig.cache

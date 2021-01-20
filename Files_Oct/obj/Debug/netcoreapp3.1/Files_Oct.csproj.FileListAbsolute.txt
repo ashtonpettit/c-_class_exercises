@@ -1,0 +1,14 @@
+C:\Users\Ashton\source\repos\Files_Oct\bin\Debug\netcoreapp3.1\Files_Oct.exe
+C:\Users\Ashton\source\repos\Files_Oct\bin\Debug\netcoreapp3.1\Files_Oct.deps.json
+C:\Users\Ashton\source\repos\Files_Oct\bin\Debug\netcoreapp3.1\Files_Oct.runtimeconfig.json
+C:\Users\Ashton\source\repos\Files_Oct\bin\Debug\netcoreapp3.1\Files_Oct.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\Files_Oct\bin\Debug\netcoreapp3.1\Files_Oct.dll
+C:\Users\Ashton\source\repos\Files_Oct\bin\Debug\netcoreapp3.1\Files_Oct.pdb
+C:\Users\Ashton\source\repos\Files_Oct\obj\Debug\netcoreapp3.1\Files_Oct.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\Files_Oct\obj\Debug\netcoreapp3.1\Files_Oct.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\Files_Oct\obj\Debug\netcoreapp3.1\Files_Oct.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\Files_Oct\obj\Debug\netcoreapp3.1\Files_Oct.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\Files_Oct\obj\Debug\netcoreapp3.1\Files_Oct.dll
+C:\Users\Ashton\source\repos\Files_Oct\obj\Debug\netcoreapp3.1\Files_Oct.pdb
+C:\Users\Ashton\source\repos\Files_Oct\obj\Debug\netcoreapp3.1\Files_Oct.genruntimeconfig.cache
+C:\Users\Ashton\source\repos\Files_Oct\bin\Debug\netcoreapp3.1\Rapunzel.txt

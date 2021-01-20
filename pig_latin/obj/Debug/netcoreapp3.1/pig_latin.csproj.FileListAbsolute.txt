@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\pig_latin\bin\Debug\netcoreapp3.1\pig_latin.exe
+C:\Users\Ashton\source\repos\pig_latin\bin\Debug\netcoreapp3.1\pig_latin.deps.json
+C:\Users\Ashton\source\repos\pig_latin\bin\Debug\netcoreapp3.1\pig_latin.runtimeconfig.json
+C:\Users\Ashton\source\repos\pig_latin\bin\Debug\netcoreapp3.1\pig_latin.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\pig_latin\bin\Debug\netcoreapp3.1\pig_latin.dll
+C:\Users\Ashton\source\repos\pig_latin\bin\Debug\netcoreapp3.1\pig_latin.pdb
+C:\Users\Ashton\source\repos\pig_latin\obj\Debug\netcoreapp3.1\pig_latin.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\pig_latin\obj\Debug\netcoreapp3.1\pig_latin.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\pig_latin\obj\Debug\netcoreapp3.1\pig_latin.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\pig_latin\obj\Debug\netcoreapp3.1\pig_latin.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\pig_latin\obj\Debug\netcoreapp3.1\pig_latin.dll
+C:\Users\Ashton\source\repos\pig_latin\obj\Debug\netcoreapp3.1\pig_latin.pdb
+C:\Users\Ashton\source\repos\pig_latin\obj\Debug\netcoreapp3.1\pig_latin.genruntimeconfig.cache

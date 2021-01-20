@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\UniqueWords\bin\Debug\netcoreapp3.1\UniqueWords.exe
+C:\Users\Ashton\source\repos\UniqueWords\bin\Debug\netcoreapp3.1\UniqueWords.deps.json
+C:\Users\Ashton\source\repos\UniqueWords\bin\Debug\netcoreapp3.1\UniqueWords.runtimeconfig.json
+C:\Users\Ashton\source\repos\UniqueWords\bin\Debug\netcoreapp3.1\UniqueWords.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\UniqueWords\bin\Debug\netcoreapp3.1\UniqueWords.dll
+C:\Users\Ashton\source\repos\UniqueWords\bin\Debug\netcoreapp3.1\UniqueWords.pdb
+C:\Users\Ashton\source\repos\UniqueWords\obj\Debug\netcoreapp3.1\UniqueWords.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\UniqueWords\obj\Debug\netcoreapp3.1\UniqueWords.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\UniqueWords\obj\Debug\netcoreapp3.1\UniqueWords.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\UniqueWords\obj\Debug\netcoreapp3.1\UniqueWords.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\UniqueWords\obj\Debug\netcoreapp3.1\UniqueWords.dll
+C:\Users\Ashton\source\repos\UniqueWords\obj\Debug\netcoreapp3.1\UniqueWords.pdb
+C:\Users\Ashton\source\repos\UniqueWords\obj\Debug\netcoreapp3.1\UniqueWords.genruntimeconfig.cache

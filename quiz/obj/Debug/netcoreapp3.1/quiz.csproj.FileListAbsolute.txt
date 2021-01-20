@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\quiz\bin\Debug\netcoreapp3.1\quiz.exe
+C:\Users\Ashton\source\repos\quiz\bin\Debug\netcoreapp3.1\quiz.deps.json
+C:\Users\Ashton\source\repos\quiz\bin\Debug\netcoreapp3.1\quiz.runtimeconfig.json
+C:\Users\Ashton\source\repos\quiz\bin\Debug\netcoreapp3.1\quiz.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\quiz\bin\Debug\netcoreapp3.1\quiz.dll
+C:\Users\Ashton\source\repos\quiz\bin\Debug\netcoreapp3.1\quiz.pdb
+C:\Users\Ashton\source\repos\quiz\obj\Debug\netcoreapp3.1\quiz.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\quiz\obj\Debug\netcoreapp3.1\quiz.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\quiz\obj\Debug\netcoreapp3.1\quiz.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\quiz\obj\Debug\netcoreapp3.1\quiz.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\quiz\obj\Debug\netcoreapp3.1\quiz.dll
+C:\Users\Ashton\source\repos\quiz\obj\Debug\netcoreapp3.1\quiz.pdb
+C:\Users\Ashton\source\repos\quiz\obj\Debug\netcoreapp3.1\quiz.genruntimeconfig.cache

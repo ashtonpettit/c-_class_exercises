@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\countCharacters\bin\Debug\netcoreapp3.1\countCharacters.exe
+C:\Users\Ashton\source\repos\countCharacters\bin\Debug\netcoreapp3.1\countCharacters.deps.json
+C:\Users\Ashton\source\repos\countCharacters\bin\Debug\netcoreapp3.1\countCharacters.runtimeconfig.json
+C:\Users\Ashton\source\repos\countCharacters\bin\Debug\netcoreapp3.1\countCharacters.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\countCharacters\bin\Debug\netcoreapp3.1\countCharacters.dll
+C:\Users\Ashton\source\repos\countCharacters\bin\Debug\netcoreapp3.1\countCharacters.pdb
+C:\Users\Ashton\source\repos\countCharacters\obj\Debug\netcoreapp3.1\countCharacters.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\countCharacters\obj\Debug\netcoreapp3.1\countCharacters.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\countCharacters\obj\Debug\netcoreapp3.1\countCharacters.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\countCharacters\obj\Debug\netcoreapp3.1\countCharacters.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\countCharacters\obj\Debug\netcoreapp3.1\countCharacters.dll
+C:\Users\Ashton\source\repos\countCharacters\obj\Debug\netcoreapp3.1\countCharacters.pdb
+C:\Users\Ashton\source\repos\countCharacters\obj\Debug\netcoreapp3.1\countCharacters.genruntimeconfig.cache

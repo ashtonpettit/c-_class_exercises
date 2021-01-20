@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\secondLargest\obj\Debug\netcoreapp3.1\secondLargest.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\secondLargest\obj\Debug\netcoreapp3.1\secondLargest.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\secondLargest\obj\Debug\netcoreapp3.1\secondLargest.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\secondLargest\obj\Debug\netcoreapp3.1\secondLargest.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\secondLargest\bin\Debug\netcoreapp3.1\secondLargest.exe
+C:\Users\Ashton\source\repos\secondLargest\bin\Debug\netcoreapp3.1\secondLargest.deps.json
+C:\Users\Ashton\source\repos\secondLargest\bin\Debug\netcoreapp3.1\secondLargest.runtimeconfig.json
+C:\Users\Ashton\source\repos\secondLargest\bin\Debug\netcoreapp3.1\secondLargest.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\secondLargest\bin\Debug\netcoreapp3.1\secondLargest.dll
+C:\Users\Ashton\source\repos\secondLargest\bin\Debug\netcoreapp3.1\secondLargest.pdb
+C:\Users\Ashton\source\repos\secondLargest\obj\Debug\netcoreapp3.1\secondLargest.dll
+C:\Users\Ashton\source\repos\secondLargest\obj\Debug\netcoreapp3.1\secondLargest.pdb
+C:\Users\Ashton\source\repos\secondLargest\obj\Debug\netcoreapp3.1\secondLargest.genruntimeconfig.cache

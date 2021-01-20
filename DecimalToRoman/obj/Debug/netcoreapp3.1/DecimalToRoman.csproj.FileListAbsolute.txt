@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\DecimalToRoman\bin\Debug\netcoreapp3.1\DecimalToRoman.exe
+C:\Users\Ashton\source\repos\DecimalToRoman\bin\Debug\netcoreapp3.1\DecimalToRoman.deps.json
+C:\Users\Ashton\source\repos\DecimalToRoman\bin\Debug\netcoreapp3.1\DecimalToRoman.runtimeconfig.json
+C:\Users\Ashton\source\repos\DecimalToRoman\bin\Debug\netcoreapp3.1\DecimalToRoman.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\DecimalToRoman\bin\Debug\netcoreapp3.1\DecimalToRoman.dll
+C:\Users\Ashton\source\repos\DecimalToRoman\bin\Debug\netcoreapp3.1\DecimalToRoman.pdb
+C:\Users\Ashton\source\repos\DecimalToRoman\obj\Debug\netcoreapp3.1\DecimalToRoman.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\DecimalToRoman\obj\Debug\netcoreapp3.1\DecimalToRoman.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\DecimalToRoman\obj\Debug\netcoreapp3.1\DecimalToRoman.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\DecimalToRoman\obj\Debug\netcoreapp3.1\DecimalToRoman.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\DecimalToRoman\obj\Debug\netcoreapp3.1\DecimalToRoman.dll
+C:\Users\Ashton\source\repos\DecimalToRoman\obj\Debug\netcoreapp3.1\DecimalToRoman.pdb
+C:\Users\Ashton\source\repos\DecimalToRoman\obj\Debug\netcoreapp3.1\DecimalToRoman.genruntimeconfig.cache

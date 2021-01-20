@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\practiceTwo\bin\Debug\netcoreapp3.1\practiceTwo.exe
+C:\Users\Ashton\source\repos\practiceTwo\bin\Debug\netcoreapp3.1\practiceTwo.deps.json
+C:\Users\Ashton\source\repos\practiceTwo\bin\Debug\netcoreapp3.1\practiceTwo.runtimeconfig.json
+C:\Users\Ashton\source\repos\practiceTwo\bin\Debug\netcoreapp3.1\practiceTwo.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\practiceTwo\bin\Debug\netcoreapp3.1\practiceTwo.dll
+C:\Users\Ashton\source\repos\practiceTwo\bin\Debug\netcoreapp3.1\practiceTwo.pdb
+C:\Users\Ashton\source\repos\practiceTwo\obj\Debug\netcoreapp3.1\practiceTwo.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\practiceTwo\obj\Debug\netcoreapp3.1\practiceTwo.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\practiceTwo\obj\Debug\netcoreapp3.1\practiceTwo.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\practiceTwo\obj\Debug\netcoreapp3.1\practiceTwo.dll
+C:\Users\Ashton\source\repos\practiceTwo\obj\Debug\netcoreapp3.1\practiceTwo.pdb
+C:\Users\Ashton\source\repos\practiceTwo\obj\Debug\netcoreapp3.1\practiceTwo.genruntimeconfig.cache
+C:\Users\Ashton\source\repos\practiceTwo\obj\Debug\netcoreapp3.1\practiceTwo.csprojAssemblyReference.cache

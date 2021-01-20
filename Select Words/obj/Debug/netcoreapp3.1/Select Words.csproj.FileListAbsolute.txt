@@ -1,0 +1,14 @@
+C:\Users\Ashton\source\repos\Select Words\bin\Debug\netcoreapp3.1\english.txt
+C:\Users\Ashton\source\repos\Select Words\bin\Debug\netcoreapp3.1\Select Words.exe
+C:\Users\Ashton\source\repos\Select Words\bin\Debug\netcoreapp3.1\Select Words.deps.json
+C:\Users\Ashton\source\repos\Select Words\bin\Debug\netcoreapp3.1\Select Words.runtimeconfig.json
+C:\Users\Ashton\source\repos\Select Words\bin\Debug\netcoreapp3.1\Select Words.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\Select Words\bin\Debug\netcoreapp3.1\Select Words.dll
+C:\Users\Ashton\source\repos\Select Words\bin\Debug\netcoreapp3.1\Select Words.pdb
+C:\Users\Ashton\source\repos\Select Words\obj\Debug\netcoreapp3.1\Select Words.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\Select Words\obj\Debug\netcoreapp3.1\Select Words.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\Select Words\obj\Debug\netcoreapp3.1\Select Words.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\Select Words\obj\Debug\netcoreapp3.1\Select Words.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\Select Words\obj\Debug\netcoreapp3.1\Select Words.dll
+C:\Users\Ashton\source\repos\Select Words\obj\Debug\netcoreapp3.1\Select Words.pdb
+C:\Users\Ashton\source\repos\Select Words\obj\Debug\netcoreapp3.1\Select Words.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\Hexadecimal\bin\Debug\netcoreapp3.1\Hexadecimal.exe
+C:\Users\Ashton\source\repos\Hexadecimal\bin\Debug\netcoreapp3.1\Hexadecimal.deps.json
+C:\Users\Ashton\source\repos\Hexadecimal\bin\Debug\netcoreapp3.1\Hexadecimal.runtimeconfig.json
+C:\Users\Ashton\source\repos\Hexadecimal\bin\Debug\netcoreapp3.1\Hexadecimal.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\Hexadecimal\bin\Debug\netcoreapp3.1\Hexadecimal.dll
+C:\Users\Ashton\source\repos\Hexadecimal\bin\Debug\netcoreapp3.1\Hexadecimal.pdb
+C:\Users\Ashton\source\repos\Hexadecimal\obj\Debug\netcoreapp3.1\Hexadecimal.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\Hexadecimal\obj\Debug\netcoreapp3.1\Hexadecimal.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\Hexadecimal\obj\Debug\netcoreapp3.1\Hexadecimal.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\Hexadecimal\obj\Debug\netcoreapp3.1\Hexadecimal.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\Hexadecimal\obj\Debug\netcoreapp3.1\Hexadecimal.dll
+C:\Users\Ashton\source\repos\Hexadecimal\obj\Debug\netcoreapp3.1\Hexadecimal.pdb
+C:\Users\Ashton\source\repos\Hexadecimal\obj\Debug\netcoreapp3.1\Hexadecimal.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\FloydsTriangleTwo\bin\Debug\netcoreapp3.1\FloydsTriangleTwo.exe
+C:\Users\Ashton\source\repos\FloydsTriangleTwo\bin\Debug\netcoreapp3.1\FloydsTriangleTwo.deps.json
+C:\Users\Ashton\source\repos\FloydsTriangleTwo\bin\Debug\netcoreapp3.1\FloydsTriangleTwo.runtimeconfig.json
+C:\Users\Ashton\source\repos\FloydsTriangleTwo\bin\Debug\netcoreapp3.1\FloydsTriangleTwo.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\FloydsTriangleTwo\bin\Debug\netcoreapp3.1\FloydsTriangleTwo.dll
+C:\Users\Ashton\source\repos\FloydsTriangleTwo\bin\Debug\netcoreapp3.1\FloydsTriangleTwo.pdb
+C:\Users\Ashton\source\repos\FloydsTriangleTwo\obj\Debug\netcoreapp3.1\FloydsTriangleTwo.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\FloydsTriangleTwo\obj\Debug\netcoreapp3.1\FloydsTriangleTwo.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\FloydsTriangleTwo\obj\Debug\netcoreapp3.1\FloydsTriangleTwo.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\FloydsTriangleTwo\obj\Debug\netcoreapp3.1\FloydsTriangleTwo.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\FloydsTriangleTwo\obj\Debug\netcoreapp3.1\FloydsTriangleTwo.dll
+C:\Users\Ashton\source\repos\FloydsTriangleTwo\obj\Debug\netcoreapp3.1\FloydsTriangleTwo.pdb
+C:\Users\Ashton\source\repos\FloydsTriangleTwo\obj\Debug\netcoreapp3.1\FloydsTriangleTwo.genruntimeconfig.cache

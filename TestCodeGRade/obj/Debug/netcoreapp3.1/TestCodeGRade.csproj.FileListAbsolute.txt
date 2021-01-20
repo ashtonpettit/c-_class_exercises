@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\TestCodeGRade\bin\Debug\netcoreapp3.1\TestCodeGRade.exe
+C:\Users\Ashton\source\repos\TestCodeGRade\bin\Debug\netcoreapp3.1\TestCodeGRade.deps.json
+C:\Users\Ashton\source\repos\TestCodeGRade\bin\Debug\netcoreapp3.1\TestCodeGRade.runtimeconfig.json
+C:\Users\Ashton\source\repos\TestCodeGRade\bin\Debug\netcoreapp3.1\TestCodeGRade.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\TestCodeGRade\bin\Debug\netcoreapp3.1\TestCodeGRade.dll
+C:\Users\Ashton\source\repos\TestCodeGRade\bin\Debug\netcoreapp3.1\TestCodeGRade.pdb
+C:\Users\Ashton\source\repos\TestCodeGRade\obj\Debug\netcoreapp3.1\TestCodeGRade.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\TestCodeGRade\obj\Debug\netcoreapp3.1\TestCodeGRade.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\TestCodeGRade\obj\Debug\netcoreapp3.1\TestCodeGRade.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\TestCodeGRade\obj\Debug\netcoreapp3.1\TestCodeGRade.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\TestCodeGRade\obj\Debug\netcoreapp3.1\TestCodeGRade.dll
+C:\Users\Ashton\source\repos\TestCodeGRade\obj\Debug\netcoreapp3.1\TestCodeGRade.pdb
+C:\Users\Ashton\source\repos\TestCodeGRade\obj\Debug\netcoreapp3.1\TestCodeGRade.genruntimeconfig.cache

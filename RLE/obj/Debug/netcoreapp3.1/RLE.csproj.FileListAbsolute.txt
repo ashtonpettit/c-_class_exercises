@@ -1,0 +1,16 @@
+C:\Users\Ashton\source\repos\RLE\bin\Debug\netcoreapp3.1\A.txt
+C:\Users\Ashton\source\repos\RLE\bin\Debug\netcoreapp3.1\christmas.txt
+C:\Users\Ashton\source\repos\RLE\bin\Debug\netcoreapp3.1\space.txt
+C:\Users\Ashton\source\repos\RLE\bin\Debug\netcoreapp3.1\RLE.exe
+C:\Users\Ashton\source\repos\RLE\bin\Debug\netcoreapp3.1\RLE.deps.json
+C:\Users\Ashton\source\repos\RLE\bin\Debug\netcoreapp3.1\RLE.runtimeconfig.json
+C:\Users\Ashton\source\repos\RLE\bin\Debug\netcoreapp3.1\RLE.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\RLE\bin\Debug\netcoreapp3.1\RLE.dll
+C:\Users\Ashton\source\repos\RLE\bin\Debug\netcoreapp3.1\RLE.pdb
+C:\Users\Ashton\source\repos\RLE\obj\Debug\netcoreapp3.1\RLE.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\RLE\obj\Debug\netcoreapp3.1\RLE.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\RLE\obj\Debug\netcoreapp3.1\RLE.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\RLE\obj\Debug\netcoreapp3.1\RLE.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\RLE\obj\Debug\netcoreapp3.1\RLE.dll
+C:\Users\Ashton\source\repos\RLE\obj\Debug\netcoreapp3.1\RLE.pdb
+C:\Users\Ashton\source\repos\RLE\obj\Debug\netcoreapp3.1\RLE.genruntimeconfig.cache

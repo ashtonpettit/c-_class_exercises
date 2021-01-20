@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\Circle\bin\Debug\netcoreapp3.1\Circle.exe
+C:\Users\Ashton\source\repos\Circle\bin\Debug\netcoreapp3.1\Circle.deps.json
+C:\Users\Ashton\source\repos\Circle\bin\Debug\netcoreapp3.1\Circle.runtimeconfig.json
+C:\Users\Ashton\source\repos\Circle\bin\Debug\netcoreapp3.1\Circle.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\Circle\bin\Debug\netcoreapp3.1\Circle.dll
+C:\Users\Ashton\source\repos\Circle\bin\Debug\netcoreapp3.1\Circle.pdb
+C:\Users\Ashton\source\repos\Circle\obj\Debug\netcoreapp3.1\Circle.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\Circle\obj\Debug\netcoreapp3.1\Circle.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\Circle\obj\Debug\netcoreapp3.1\Circle.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\Circle\obj\Debug\netcoreapp3.1\Circle.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\Circle\obj\Debug\netcoreapp3.1\Circle.dll
+C:\Users\Ashton\source\repos\Circle\obj\Debug\netcoreapp3.1\Circle.pdb
+C:\Users\Ashton\source\repos\Circle\obj\Debug\netcoreapp3.1\Circle.genruntimeconfig.cache

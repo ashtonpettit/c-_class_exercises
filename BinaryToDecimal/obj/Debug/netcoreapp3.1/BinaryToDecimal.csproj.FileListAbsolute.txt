@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\BinaryToDecimal\bin\Debug\netcoreapp3.1\BinaryToDecimal.exe
+C:\Users\Ashton\source\repos\BinaryToDecimal\bin\Debug\netcoreapp3.1\BinaryToDecimal.deps.json
+C:\Users\Ashton\source\repos\BinaryToDecimal\bin\Debug\netcoreapp3.1\BinaryToDecimal.runtimeconfig.json
+C:\Users\Ashton\source\repos\BinaryToDecimal\bin\Debug\netcoreapp3.1\BinaryToDecimal.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\BinaryToDecimal\bin\Debug\netcoreapp3.1\BinaryToDecimal.dll
+C:\Users\Ashton\source\repos\BinaryToDecimal\bin\Debug\netcoreapp3.1\BinaryToDecimal.pdb
+C:\Users\Ashton\source\repos\BinaryToDecimal\obj\Debug\netcoreapp3.1\BinaryToDecimal.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\BinaryToDecimal\obj\Debug\netcoreapp3.1\BinaryToDecimal.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\BinaryToDecimal\obj\Debug\netcoreapp3.1\BinaryToDecimal.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\BinaryToDecimal\obj\Debug\netcoreapp3.1\BinaryToDecimal.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\BinaryToDecimal\obj\Debug\netcoreapp3.1\BinaryToDecimal.dll
+C:\Users\Ashton\source\repos\BinaryToDecimal\obj\Debug\netcoreapp3.1\BinaryToDecimal.pdb
+C:\Users\Ashton\source\repos\BinaryToDecimal\obj\Debug\netcoreapp3.1\BinaryToDecimal.genruntimeconfig.cache

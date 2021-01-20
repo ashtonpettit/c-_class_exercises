@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\SUM\bin\Debug\netcoreapp3.1\SUM.exe
+C:\Users\Ashton\source\repos\SUM\bin\Debug\netcoreapp3.1\SUM.deps.json
+C:\Users\Ashton\source\repos\SUM\bin\Debug\netcoreapp3.1\SUM.runtimeconfig.json
+C:\Users\Ashton\source\repos\SUM\bin\Debug\netcoreapp3.1\SUM.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\SUM\bin\Debug\netcoreapp3.1\SUM.dll
+C:\Users\Ashton\source\repos\SUM\bin\Debug\netcoreapp3.1\SUM.pdb
+C:\Users\Ashton\source\repos\SUM\obj\Debug\netcoreapp3.1\SUM.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\SUM\obj\Debug\netcoreapp3.1\SUM.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\SUM\obj\Debug\netcoreapp3.1\SUM.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\SUM\obj\Debug\netcoreapp3.1\SUM.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\SUM\obj\Debug\netcoreapp3.1\SUM.dll
+C:\Users\Ashton\source\repos\SUM\obj\Debug\netcoreapp3.1\SUM.pdb
+C:\Users\Ashton\source\repos\SUM\obj\Debug\netcoreapp3.1\SUM.genruntimeconfig.cache

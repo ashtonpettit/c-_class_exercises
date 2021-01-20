@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\02Days_PF\bin\Debug\netcoreapp3.1\02Days_PF.exe
+C:\Users\Ashton\source\repos\02Days_PF\bin\Debug\netcoreapp3.1\02Days_PF.deps.json
+C:\Users\Ashton\source\repos\02Days_PF\bin\Debug\netcoreapp3.1\02Days_PF.runtimeconfig.json
+C:\Users\Ashton\source\repos\02Days_PF\bin\Debug\netcoreapp3.1\02Days_PF.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\02Days_PF\bin\Debug\netcoreapp3.1\02Days_PF.dll
+C:\Users\Ashton\source\repos\02Days_PF\bin\Debug\netcoreapp3.1\02Days_PF.pdb
+C:\Users\Ashton\source\repos\02Days_PF\obj\Debug\netcoreapp3.1\02Days_PF.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\02Days_PF\obj\Debug\netcoreapp3.1\02Days_PF.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\02Days_PF\obj\Debug\netcoreapp3.1\02Days_PF.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\02Days_PF\obj\Debug\netcoreapp3.1\02Days_PF.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\02Days_PF\obj\Debug\netcoreapp3.1\02Days_PF.dll
+C:\Users\Ashton\source\repos\02Days_PF\obj\Debug\netcoreapp3.1\02Days_PF.pdb
+C:\Users\Ashton\source\repos\02Days_PF\obj\Debug\netcoreapp3.1\02Days_PF.genruntimeconfig.cache

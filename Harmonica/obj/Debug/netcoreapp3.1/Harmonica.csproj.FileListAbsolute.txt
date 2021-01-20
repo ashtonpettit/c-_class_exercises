@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\Harmonica\bin\Debug\netcoreapp3.1\Harmonica.exe
+C:\Users\Ashton\source\repos\Harmonica\bin\Debug\netcoreapp3.1\Harmonica.deps.json
+C:\Users\Ashton\source\repos\Harmonica\bin\Debug\netcoreapp3.1\Harmonica.runtimeconfig.json
+C:\Users\Ashton\source\repos\Harmonica\bin\Debug\netcoreapp3.1\Harmonica.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\Harmonica\bin\Debug\netcoreapp3.1\Harmonica.dll
+C:\Users\Ashton\source\repos\Harmonica\bin\Debug\netcoreapp3.1\Harmonica.pdb
+C:\Users\Ashton\source\repos\Harmonica\obj\Debug\netcoreapp3.1\Harmonica.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\Harmonica\obj\Debug\netcoreapp3.1\Harmonica.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\Harmonica\obj\Debug\netcoreapp3.1\Harmonica.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\Harmonica\obj\Debug\netcoreapp3.1\Harmonica.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\Harmonica\obj\Debug\netcoreapp3.1\Harmonica.dll
+C:\Users\Ashton\source\repos\Harmonica\obj\Debug\netcoreapp3.1\Harmonica.pdb
+C:\Users\Ashton\source\repos\Harmonica\obj\Debug\netcoreapp3.1\Harmonica.genruntimeconfig.cache

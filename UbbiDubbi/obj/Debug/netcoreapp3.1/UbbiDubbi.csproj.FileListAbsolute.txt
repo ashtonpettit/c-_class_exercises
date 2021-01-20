@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\UbbiDubbi\bin\Debug\netcoreapp3.1\UbbiDubbi.exe
+C:\Users\Ashton\source\repos\UbbiDubbi\bin\Debug\netcoreapp3.1\UbbiDubbi.deps.json
+C:\Users\Ashton\source\repos\UbbiDubbi\bin\Debug\netcoreapp3.1\UbbiDubbi.runtimeconfig.json
+C:\Users\Ashton\source\repos\UbbiDubbi\bin\Debug\netcoreapp3.1\UbbiDubbi.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\UbbiDubbi\bin\Debug\netcoreapp3.1\UbbiDubbi.dll
+C:\Users\Ashton\source\repos\UbbiDubbi\bin\Debug\netcoreapp3.1\UbbiDubbi.pdb
+C:\Users\Ashton\source\repos\UbbiDubbi\obj\Debug\netcoreapp3.1\UbbiDubbi.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\UbbiDubbi\obj\Debug\netcoreapp3.1\UbbiDubbi.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\UbbiDubbi\obj\Debug\netcoreapp3.1\UbbiDubbi.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\UbbiDubbi\obj\Debug\netcoreapp3.1\UbbiDubbi.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\UbbiDubbi\obj\Debug\netcoreapp3.1\UbbiDubbi.dll
+C:\Users\Ashton\source\repos\UbbiDubbi\obj\Debug\netcoreapp3.1\UbbiDubbi.pdb
+C:\Users\Ashton\source\repos\UbbiDubbi\obj\Debug\netcoreapp3.1\UbbiDubbi.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Ashton\source\repos\ReadtheLine\bin\Debug\netcoreapp3.1\Harry Potter and the Sorcerer.txt
+C:\Users\Ashton\source\repos\ReadtheLine\bin\Debug\netcoreapp3.1\ReadtheLine.exe
+C:\Users\Ashton\source\repos\ReadtheLine\bin\Debug\netcoreapp3.1\ReadtheLine.deps.json
+C:\Users\Ashton\source\repos\ReadtheLine\bin\Debug\netcoreapp3.1\ReadtheLine.runtimeconfig.json
+C:\Users\Ashton\source\repos\ReadtheLine\bin\Debug\netcoreapp3.1\ReadtheLine.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\ReadtheLine\bin\Debug\netcoreapp3.1\ReadtheLine.dll
+C:\Users\Ashton\source\repos\ReadtheLine\bin\Debug\netcoreapp3.1\ReadtheLine.pdb
+C:\Users\Ashton\source\repos\ReadtheLine\obj\Debug\netcoreapp3.1\ReadtheLine.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\ReadtheLine\obj\Debug\netcoreapp3.1\ReadtheLine.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\ReadtheLine\obj\Debug\netcoreapp3.1\ReadtheLine.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\ReadtheLine\obj\Debug\netcoreapp3.1\ReadtheLine.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\ReadtheLine\obj\Debug\netcoreapp3.1\ReadtheLine.dll
+C:\Users\Ashton\source\repos\ReadtheLine\obj\Debug\netcoreapp3.1\ReadtheLine.pdb
+C:\Users\Ashton\source\repos\ReadtheLine\obj\Debug\netcoreapp3.1\ReadtheLine.genruntimeconfig.cache

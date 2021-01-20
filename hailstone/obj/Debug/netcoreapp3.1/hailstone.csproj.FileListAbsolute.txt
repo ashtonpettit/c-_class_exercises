@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\hailstone\bin\Debug\netcoreapp3.1\hailstone.exe
+C:\Users\Ashton\source\repos\hailstone\bin\Debug\netcoreapp3.1\hailstone.deps.json
+C:\Users\Ashton\source\repos\hailstone\bin\Debug\netcoreapp3.1\hailstone.runtimeconfig.json
+C:\Users\Ashton\source\repos\hailstone\bin\Debug\netcoreapp3.1\hailstone.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\hailstone\bin\Debug\netcoreapp3.1\hailstone.dll
+C:\Users\Ashton\source\repos\hailstone\bin\Debug\netcoreapp3.1\hailstone.pdb
+C:\Users\Ashton\source\repos\hailstone\obj\Debug\netcoreapp3.1\hailstone.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\hailstone\obj\Debug\netcoreapp3.1\hailstone.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\hailstone\obj\Debug\netcoreapp3.1\hailstone.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\hailstone\obj\Debug\netcoreapp3.1\hailstone.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\hailstone\obj\Debug\netcoreapp3.1\hailstone.dll
+C:\Users\Ashton\source\repos\hailstone\obj\Debug\netcoreapp3.1\hailstone.pdb
+C:\Users\Ashton\source\repos\hailstone\obj\Debug\netcoreapp3.1\hailstone.genruntimeconfig.cache

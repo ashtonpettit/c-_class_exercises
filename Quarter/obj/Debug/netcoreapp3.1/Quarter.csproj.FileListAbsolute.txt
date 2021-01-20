@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\Quarter\bin\Debug\netcoreapp3.1\Quarter.exe
+C:\Users\Ashton\source\repos\Quarter\bin\Debug\netcoreapp3.1\Quarter.deps.json
+C:\Users\Ashton\source\repos\Quarter\bin\Debug\netcoreapp3.1\Quarter.runtimeconfig.json
+C:\Users\Ashton\source\repos\Quarter\bin\Debug\netcoreapp3.1\Quarter.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\Quarter\bin\Debug\netcoreapp3.1\Quarter.dll
+C:\Users\Ashton\source\repos\Quarter\bin\Debug\netcoreapp3.1\Quarter.pdb
+C:\Users\Ashton\source\repos\Quarter\obj\Debug\netcoreapp3.1\Quarter.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\Quarter\obj\Debug\netcoreapp3.1\Quarter.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\Quarter\obj\Debug\netcoreapp3.1\Quarter.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\Quarter\obj\Debug\netcoreapp3.1\Quarter.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\Quarter\obj\Debug\netcoreapp3.1\Quarter.dll
+C:\Users\Ashton\source\repos\Quarter\obj\Debug\netcoreapp3.1\Quarter.pdb
+C:\Users\Ashton\source\repos\Quarter\obj\Debug\netcoreapp3.1\Quarter.genruntimeconfig.cache

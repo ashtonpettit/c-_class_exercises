@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.exe
+C:\Users\Ashton\source\repos\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.deps.json
+C:\Users\Ashton\source\repos\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.runtimeconfig.json
+C:\Users\Ashton\source\repos\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.dll
+C:\Users\Ashton\source\repos\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.pdb
+C:\Users\Ashton\source\repos\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.dll
+C:\Users\Ashton\source\repos\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.pdb
+C:\Users\Ashton\source\repos\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.genruntimeconfig.cache

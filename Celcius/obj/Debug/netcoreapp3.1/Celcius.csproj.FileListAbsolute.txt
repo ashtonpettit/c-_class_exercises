@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\Celcius\bin\Debug\netcoreapp3.1\Celcius.exe
+C:\Users\Ashton\source\repos\Celcius\bin\Debug\netcoreapp3.1\Celcius.deps.json
+C:\Users\Ashton\source\repos\Celcius\bin\Debug\netcoreapp3.1\Celcius.runtimeconfig.json
+C:\Users\Ashton\source\repos\Celcius\bin\Debug\netcoreapp3.1\Celcius.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\Celcius\bin\Debug\netcoreapp3.1\Celcius.dll
+C:\Users\Ashton\source\repos\Celcius\bin\Debug\netcoreapp3.1\Celcius.pdb
+C:\Users\Ashton\source\repos\Celcius\obj\Debug\netcoreapp3.1\Celcius.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\Celcius\obj\Debug\netcoreapp3.1\Celcius.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\Celcius\obj\Debug\netcoreapp3.1\Celcius.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\Celcius\obj\Debug\netcoreapp3.1\Celcius.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\Celcius\obj\Debug\netcoreapp3.1\Celcius.dll
+C:\Users\Ashton\source\repos\Celcius\obj\Debug\netcoreapp3.1\Celcius.pdb
+C:\Users\Ashton\source\repos\Celcius\obj\Debug\netcoreapp3.1\Celcius.genruntimeconfig.cache

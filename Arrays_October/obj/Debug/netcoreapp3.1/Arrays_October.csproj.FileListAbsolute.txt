@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\Arrays_October\bin\Debug\netcoreapp3.1\Arrays_October.exe
+C:\Users\Ashton\source\repos\Arrays_October\bin\Debug\netcoreapp3.1\Arrays_October.deps.json
+C:\Users\Ashton\source\repos\Arrays_October\bin\Debug\netcoreapp3.1\Arrays_October.runtimeconfig.json
+C:\Users\Ashton\source\repos\Arrays_October\bin\Debug\netcoreapp3.1\Arrays_October.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\Arrays_October\bin\Debug\netcoreapp3.1\Arrays_October.dll
+C:\Users\Ashton\source\repos\Arrays_October\bin\Debug\netcoreapp3.1\Arrays_October.pdb
+C:\Users\Ashton\source\repos\Arrays_October\obj\Debug\netcoreapp3.1\Arrays_October.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\Arrays_October\obj\Debug\netcoreapp3.1\Arrays_October.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\Arrays_October\obj\Debug\netcoreapp3.1\Arrays_October.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\Arrays_October\obj\Debug\netcoreapp3.1\Arrays_October.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\Arrays_October\obj\Debug\netcoreapp3.1\Arrays_October.dll
+C:\Users\Ashton\source\repos\Arrays_October\obj\Debug\netcoreapp3.1\Arrays_October.pdb
+C:\Users\Ashton\source\repos\Arrays_October\obj\Debug\netcoreapp3.1\Arrays_October.genruntimeconfig.cache

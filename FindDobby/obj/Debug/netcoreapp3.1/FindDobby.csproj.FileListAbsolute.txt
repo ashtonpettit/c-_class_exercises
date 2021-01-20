@@ -1,0 +1,14 @@
+C:\Users\Ashton\source\repos\FindDobby\bin\Debug\netcoreapp3.1\Harry Potter and the Sorcerer.txt
+C:\Users\Ashton\source\repos\FindDobby\bin\Debug\netcoreapp3.1\FindDobby.exe
+C:\Users\Ashton\source\repos\FindDobby\bin\Debug\netcoreapp3.1\FindDobby.deps.json
+C:\Users\Ashton\source\repos\FindDobby\bin\Debug\netcoreapp3.1\FindDobby.runtimeconfig.json
+C:\Users\Ashton\source\repos\FindDobby\bin\Debug\netcoreapp3.1\FindDobby.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\FindDobby\bin\Debug\netcoreapp3.1\FindDobby.dll
+C:\Users\Ashton\source\repos\FindDobby\bin\Debug\netcoreapp3.1\FindDobby.pdb
+C:\Users\Ashton\source\repos\FindDobby\obj\Debug\netcoreapp3.1\FindDobby.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\FindDobby\obj\Debug\netcoreapp3.1\FindDobby.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\FindDobby\obj\Debug\netcoreapp3.1\FindDobby.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\FindDobby\obj\Debug\netcoreapp3.1\FindDobby.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\FindDobby\obj\Debug\netcoreapp3.1\FindDobby.dll
+C:\Users\Ashton\source\repos\FindDobby\obj\Debug\netcoreapp3.1\FindDobby.pdb
+C:\Users\Ashton\source\repos\FindDobby\obj\Debug\netcoreapp3.1\FindDobby.genruntimeconfig.cache

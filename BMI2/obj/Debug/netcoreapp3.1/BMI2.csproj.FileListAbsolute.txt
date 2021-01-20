@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\BMI2\obj\Debug\netcoreapp3.1\BMI2.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\BMI2\obj\Debug\netcoreapp3.1\BMI2.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\BMI2\obj\Debug\netcoreapp3.1\BMI2.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\BMI2\obj\Debug\netcoreapp3.1\BMI2.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\BMI2\bin\Debug\netcoreapp3.1\BMI2.exe
+C:\Users\Ashton\source\repos\BMI2\bin\Debug\netcoreapp3.1\BMI2.deps.json
+C:\Users\Ashton\source\repos\BMI2\bin\Debug\netcoreapp3.1\BMI2.runtimeconfig.json
+C:\Users\Ashton\source\repos\BMI2\bin\Debug\netcoreapp3.1\BMI2.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\BMI2\bin\Debug\netcoreapp3.1\BMI2.dll
+C:\Users\Ashton\source\repos\BMI2\bin\Debug\netcoreapp3.1\BMI2.pdb
+C:\Users\Ashton\source\repos\BMI2\obj\Debug\netcoreapp3.1\BMI2.dll
+C:\Users\Ashton\source\repos\BMI2\obj\Debug\netcoreapp3.1\BMI2.pdb
+C:\Users\Ashton\source\repos\BMI2\obj\Debug\netcoreapp3.1\BMI2.genruntimeconfig.cache

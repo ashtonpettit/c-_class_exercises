@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\Seperation\bin\Debug\netcoreapp3.1\Seperation.exe
+C:\Users\Ashton\source\repos\Seperation\bin\Debug\netcoreapp3.1\Seperation.deps.json
+C:\Users\Ashton\source\repos\Seperation\bin\Debug\netcoreapp3.1\Seperation.runtimeconfig.json
+C:\Users\Ashton\source\repos\Seperation\bin\Debug\netcoreapp3.1\Seperation.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\Seperation\bin\Debug\netcoreapp3.1\Seperation.dll
+C:\Users\Ashton\source\repos\Seperation\bin\Debug\netcoreapp3.1\Seperation.pdb
+C:\Users\Ashton\source\repos\Seperation\obj\Debug\netcoreapp3.1\Seperation.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\Seperation\obj\Debug\netcoreapp3.1\Seperation.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\Seperation\obj\Debug\netcoreapp3.1\Seperation.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\Seperation\obj\Debug\netcoreapp3.1\Seperation.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\Seperation\obj\Debug\netcoreapp3.1\Seperation.dll
+C:\Users\Ashton\source\repos\Seperation\obj\Debug\netcoreapp3.1\Seperation.pdb
+C:\Users\Ashton\source\repos\Seperation\obj\Debug\netcoreapp3.1\Seperation.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\Negative, Positive, or Zero\bin\Debug\netcoreapp3.1\Negative, Positive, or Zero.exe
+C:\Users\Ashton\source\repos\Negative, Positive, or Zero\bin\Debug\netcoreapp3.1\Negative, Positive, or Zero.deps.json
+C:\Users\Ashton\source\repos\Negative, Positive, or Zero\bin\Debug\netcoreapp3.1\Negative, Positive, or Zero.runtimeconfig.json
+C:\Users\Ashton\source\repos\Negative, Positive, or Zero\bin\Debug\netcoreapp3.1\Negative, Positive, or Zero.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\Negative, Positive, or Zero\bin\Debug\netcoreapp3.1\Negative, Positive, or Zero.dll
+C:\Users\Ashton\source\repos\Negative, Positive, or Zero\bin\Debug\netcoreapp3.1\Negative, Positive, or Zero.pdb
+C:\Users\Ashton\source\repos\Negative, Positive, or Zero\obj\Debug\netcoreapp3.1\Negative, Positive, or Zero.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\Negative, Positive, or Zero\obj\Debug\netcoreapp3.1\Negative, Positive, or Zero.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\Negative, Positive, or Zero\obj\Debug\netcoreapp3.1\Negative, Positive, or Zero.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\Negative, Positive, or Zero\obj\Debug\netcoreapp3.1\Negative, Positive, or Zero.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\Negative, Positive, or Zero\obj\Debug\netcoreapp3.1\Negative, Positive, or Zero.dll
+C:\Users\Ashton\source\repos\Negative, Positive, or Zero\obj\Debug\netcoreapp3.1\Negative, Positive, or Zero.pdb
+C:\Users\Ashton\source\repos\Negative, Positive, or Zero\obj\Debug\netcoreapp3.1\Negative, Positive, or Zero.genruntimeconfig.cache

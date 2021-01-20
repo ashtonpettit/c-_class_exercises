@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\Roots\bin\Debug\netcoreapp3.1\Roots.exe
+C:\Users\Ashton\source\repos\Roots\bin\Debug\netcoreapp3.1\Roots.deps.json
+C:\Users\Ashton\source\repos\Roots\bin\Debug\netcoreapp3.1\Roots.runtimeconfig.json
+C:\Users\Ashton\source\repos\Roots\bin\Debug\netcoreapp3.1\Roots.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\Roots\bin\Debug\netcoreapp3.1\Roots.dll
+C:\Users\Ashton\source\repos\Roots\bin\Debug\netcoreapp3.1\Roots.pdb
+C:\Users\Ashton\source\repos\Roots\obj\Debug\netcoreapp3.1\Roots.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\Roots\obj\Debug\netcoreapp3.1\Roots.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\Roots\obj\Debug\netcoreapp3.1\Roots.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\Roots\obj\Debug\netcoreapp3.1\Roots.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\Roots\obj\Debug\netcoreapp3.1\Roots.dll
+C:\Users\Ashton\source\repos\Roots\obj\Debug\netcoreapp3.1\Roots.pdb
+C:\Users\Ashton\source\repos\Roots\obj\Debug\netcoreapp3.1\Roots.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\Greatest\bin\Debug\netcoreapp3.1\Greatest.exe
+C:\Users\Ashton\source\repos\Greatest\bin\Debug\netcoreapp3.1\Greatest.deps.json
+C:\Users\Ashton\source\repos\Greatest\bin\Debug\netcoreapp3.1\Greatest.runtimeconfig.json
+C:\Users\Ashton\source\repos\Greatest\bin\Debug\netcoreapp3.1\Greatest.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\Greatest\bin\Debug\netcoreapp3.1\Greatest.dll
+C:\Users\Ashton\source\repos\Greatest\bin\Debug\netcoreapp3.1\Greatest.pdb
+C:\Users\Ashton\source\repos\Greatest\obj\Debug\netcoreapp3.1\Greatest.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\Greatest\obj\Debug\netcoreapp3.1\Greatest.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\Greatest\obj\Debug\netcoreapp3.1\Greatest.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\Greatest\obj\Debug\netcoreapp3.1\Greatest.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\Greatest\obj\Debug\netcoreapp3.1\Greatest.dll
+C:\Users\Ashton\source\repos\Greatest\obj\Debug\netcoreapp3.1\Greatest.pdb
+C:\Users\Ashton\source\repos\Greatest\obj\Debug\netcoreapp3.1\Greatest.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\most occuring\bin\Debug\netcoreapp3.1\most occuring.exe
+C:\Users\Ashton\source\repos\most occuring\bin\Debug\netcoreapp3.1\most occuring.deps.json
+C:\Users\Ashton\source\repos\most occuring\bin\Debug\netcoreapp3.1\most occuring.runtimeconfig.json
+C:\Users\Ashton\source\repos\most occuring\bin\Debug\netcoreapp3.1\most occuring.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\most occuring\bin\Debug\netcoreapp3.1\most occuring.dll
+C:\Users\Ashton\source\repos\most occuring\bin\Debug\netcoreapp3.1\most occuring.pdb
+C:\Users\Ashton\source\repos\most occuring\obj\Debug\netcoreapp3.1\most occuring.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\most occuring\obj\Debug\netcoreapp3.1\most occuring.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\most occuring\obj\Debug\netcoreapp3.1\most occuring.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\most occuring\obj\Debug\netcoreapp3.1\most occuring.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\most occuring\obj\Debug\netcoreapp3.1\most occuring.dll
+C:\Users\Ashton\source\repos\most occuring\obj\Debug\netcoreapp3.1\most occuring.pdb
+C:\Users\Ashton\source\repos\most occuring\obj\Debug\netcoreapp3.1\most occuring.genruntimeconfig.cache

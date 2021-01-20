@@ -1,0 +1,16 @@
+C:\Users\Ashton\source\repos\QuizProject\bin\Debug\netcoreapp3.1\mockAnswers.txt
+C:\Users\Ashton\source\repos\QuizProject\bin\Debug\netcoreapp3.1\mockQuestions.txt
+C:\Users\Ashton\source\repos\QuizProject\bin\Debug\netcoreapp3.1\QuizProject.exe
+C:\Users\Ashton\source\repos\QuizProject\bin\Debug\netcoreapp3.1\QuizProject.deps.json
+C:\Users\Ashton\source\repos\QuizProject\bin\Debug\netcoreapp3.1\QuizProject.runtimeconfig.json
+C:\Users\Ashton\source\repos\QuizProject\bin\Debug\netcoreapp3.1\QuizProject.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\QuizProject\bin\Debug\netcoreapp3.1\QuizProject.dll
+C:\Users\Ashton\source\repos\QuizProject\bin\Debug\netcoreapp3.1\QuizProject.pdb
+C:\Users\Ashton\source\repos\QuizProject\obj\Debug\netcoreapp3.1\QuizProject.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\QuizProject\obj\Debug\netcoreapp3.1\QuizProject.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\QuizProject\obj\Debug\netcoreapp3.1\QuizProject.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\QuizProject\obj\Debug\netcoreapp3.1\QuizProject.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\QuizProject\obj\Debug\netcoreapp3.1\QuizProject.dll
+C:\Users\Ashton\source\repos\QuizProject\obj\Debug\netcoreapp3.1\QuizProject.pdb
+C:\Users\Ashton\source\repos\QuizProject\obj\Debug\netcoreapp3.1\QuizProject.genruntimeconfig.cache
+C:\Users\Ashton\source\repos\QuizProject\bin\Debug\netcoreapp3.1\correctAnswers.txt

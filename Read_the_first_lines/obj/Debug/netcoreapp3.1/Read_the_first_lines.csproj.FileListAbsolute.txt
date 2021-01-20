@@ -1,0 +1,14 @@
+C:\Users\Ashton\source\repos\Read_the_first_lines\bin\Debug\netcoreapp3.1\Harry Potter and the Sorcerer.txt
+C:\Users\Ashton\source\repos\Read_the_first_lines\bin\Debug\netcoreapp3.1\Read_the_first_lines.exe
+C:\Users\Ashton\source\repos\Read_the_first_lines\bin\Debug\netcoreapp3.1\Read_the_first_lines.deps.json
+C:\Users\Ashton\source\repos\Read_the_first_lines\bin\Debug\netcoreapp3.1\Read_the_first_lines.runtimeconfig.json
+C:\Users\Ashton\source\repos\Read_the_first_lines\bin\Debug\netcoreapp3.1\Read_the_first_lines.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\Read_the_first_lines\bin\Debug\netcoreapp3.1\Read_the_first_lines.dll
+C:\Users\Ashton\source\repos\Read_the_first_lines\bin\Debug\netcoreapp3.1\Read_the_first_lines.pdb
+C:\Users\Ashton\source\repos\Read_the_first_lines\obj\Debug\netcoreapp3.1\Read_the_first_lines.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\Read_the_first_lines\obj\Debug\netcoreapp3.1\Read_the_first_lines.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\Read_the_first_lines\obj\Debug\netcoreapp3.1\Read_the_first_lines.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\Read_the_first_lines\obj\Debug\netcoreapp3.1\Read_the_first_lines.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\Read_the_first_lines\obj\Debug\netcoreapp3.1\Read_the_first_lines.dll
+C:\Users\Ashton\source\repos\Read_the_first_lines\obj\Debug\netcoreapp3.1\Read_the_first_lines.pdb
+C:\Users\Ashton\source\repos\Read_the_first_lines\obj\Debug\netcoreapp3.1\Read_the_first_lines.genruntimeconfig.cache

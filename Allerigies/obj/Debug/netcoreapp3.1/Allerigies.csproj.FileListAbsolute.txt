@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\Allerigies\bin\Debug\netcoreapp3.1\Allerigies.exe
+C:\Users\Ashton\source\repos\Allerigies\bin\Debug\netcoreapp3.1\Allerigies.deps.json
+C:\Users\Ashton\source\repos\Allerigies\bin\Debug\netcoreapp3.1\Allerigies.runtimeconfig.json
+C:\Users\Ashton\source\repos\Allerigies\bin\Debug\netcoreapp3.1\Allerigies.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\Allerigies\bin\Debug\netcoreapp3.1\Allerigies.dll
+C:\Users\Ashton\source\repos\Allerigies\bin\Debug\netcoreapp3.1\Allerigies.pdb
+C:\Users\Ashton\source\repos\Allerigies\obj\Debug\netcoreapp3.1\Allerigies.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\Allerigies\obj\Debug\netcoreapp3.1\Allerigies.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\Allerigies\obj\Debug\netcoreapp3.1\Allerigies.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\Allerigies\obj\Debug\netcoreapp3.1\Allerigies.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\Allerigies\obj\Debug\netcoreapp3.1\Allerigies.dll
+C:\Users\Ashton\source\repos\Allerigies\obj\Debug\netcoreapp3.1\Allerigies.pdb
+C:\Users\Ashton\source\repos\Allerigies\obj\Debug\netcoreapp3.1\Allerigies.genruntimeconfig.cache

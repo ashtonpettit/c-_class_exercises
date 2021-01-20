@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\Determinant\bin\Debug\netcoreapp3.1\Determinant.exe
+C:\Users\Ashton\source\repos\Determinant\bin\Debug\netcoreapp3.1\Determinant.deps.json
+C:\Users\Ashton\source\repos\Determinant\bin\Debug\netcoreapp3.1\Determinant.runtimeconfig.json
+C:\Users\Ashton\source\repos\Determinant\bin\Debug\netcoreapp3.1\Determinant.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\Determinant\bin\Debug\netcoreapp3.1\Determinant.dll
+C:\Users\Ashton\source\repos\Determinant\bin\Debug\netcoreapp3.1\Determinant.pdb
+C:\Users\Ashton\source\repos\Determinant\obj\Debug\netcoreapp3.1\Determinant.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\Determinant\obj\Debug\netcoreapp3.1\Determinant.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\Determinant\obj\Debug\netcoreapp3.1\Determinant.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\Determinant\obj\Debug\netcoreapp3.1\Determinant.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\Determinant\obj\Debug\netcoreapp3.1\Determinant.dll
+C:\Users\Ashton\source\repos\Determinant\obj\Debug\netcoreapp3.1\Determinant.pdb
+C:\Users\Ashton\source\repos\Determinant\obj\Debug\netcoreapp3.1\Determinant.genruntimeconfig.cache

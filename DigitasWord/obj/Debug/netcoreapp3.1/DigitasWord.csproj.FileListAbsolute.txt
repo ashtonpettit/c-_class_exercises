@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\DigitasWord\bin\Debug\netcoreapp3.1\DigitasWord.exe
+C:\Users\Ashton\source\repos\DigitasWord\bin\Debug\netcoreapp3.1\DigitasWord.deps.json
+C:\Users\Ashton\source\repos\DigitasWord\bin\Debug\netcoreapp3.1\DigitasWord.runtimeconfig.json
+C:\Users\Ashton\source\repos\DigitasWord\bin\Debug\netcoreapp3.1\DigitasWord.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\DigitasWord\bin\Debug\netcoreapp3.1\DigitasWord.dll
+C:\Users\Ashton\source\repos\DigitasWord\bin\Debug\netcoreapp3.1\DigitasWord.pdb
+C:\Users\Ashton\source\repos\DigitasWord\obj\Debug\netcoreapp3.1\DigitasWord.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\DigitasWord\obj\Debug\netcoreapp3.1\DigitasWord.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\DigitasWord\obj\Debug\netcoreapp3.1\DigitasWord.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\DigitasWord\obj\Debug\netcoreapp3.1\DigitasWord.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\DigitasWord\obj\Debug\netcoreapp3.1\DigitasWord.dll
+C:\Users\Ashton\source\repos\DigitasWord\obj\Debug\netcoreapp3.1\DigitasWord.pdb
+C:\Users\Ashton\source\repos\DigitasWord\obj\Debug\netcoreapp3.1\DigitasWord.genruntimeconfig.cache

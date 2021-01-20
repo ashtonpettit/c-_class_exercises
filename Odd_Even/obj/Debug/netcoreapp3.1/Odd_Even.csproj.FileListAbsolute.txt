@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\Odd_Even\bin\Debug\netcoreapp3.1\Odd_Even.exe
+C:\Users\Ashton\source\repos\Odd_Even\bin\Debug\netcoreapp3.1\Odd_Even.deps.json
+C:\Users\Ashton\source\repos\Odd_Even\bin\Debug\netcoreapp3.1\Odd_Even.runtimeconfig.json
+C:\Users\Ashton\source\repos\Odd_Even\bin\Debug\netcoreapp3.1\Odd_Even.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\Odd_Even\bin\Debug\netcoreapp3.1\Odd_Even.dll
+C:\Users\Ashton\source\repos\Odd_Even\bin\Debug\netcoreapp3.1\Odd_Even.pdb
+C:\Users\Ashton\source\repos\Odd_Even\obj\Debug\netcoreapp3.1\Odd_Even.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\Odd_Even\obj\Debug\netcoreapp3.1\Odd_Even.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\Odd_Even\obj\Debug\netcoreapp3.1\Odd_Even.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\Odd_Even\obj\Debug\netcoreapp3.1\Odd_Even.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\Odd_Even\obj\Debug\netcoreapp3.1\Odd_Even.dll
+C:\Users\Ashton\source\repos\Odd_Even\obj\Debug\netcoreapp3.1\Odd_Even.pdb
+C:\Users\Ashton\source\repos\Odd_Even\obj\Debug\netcoreapp3.1\Odd_Even.genruntimeconfig.cache

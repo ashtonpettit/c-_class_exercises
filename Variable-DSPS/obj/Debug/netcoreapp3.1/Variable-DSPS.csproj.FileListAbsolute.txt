@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\Variable-DSPS\bin\Debug\netcoreapp3.1\Variable-DSPS.exe
+C:\Users\Ashton\source\repos\Variable-DSPS\bin\Debug\netcoreapp3.1\Variable-DSPS.deps.json
+C:\Users\Ashton\source\repos\Variable-DSPS\bin\Debug\netcoreapp3.1\Variable-DSPS.runtimeconfig.json
+C:\Users\Ashton\source\repos\Variable-DSPS\bin\Debug\netcoreapp3.1\Variable-DSPS.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\Variable-DSPS\bin\Debug\netcoreapp3.1\Variable-DSPS.dll
+C:\Users\Ashton\source\repos\Variable-DSPS\bin\Debug\netcoreapp3.1\Variable-DSPS.pdb
+C:\Users\Ashton\source\repos\Variable-DSPS\obj\Debug\netcoreapp3.1\Variable-DSPS.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\Variable-DSPS\obj\Debug\netcoreapp3.1\Variable-DSPS.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\Variable-DSPS\obj\Debug\netcoreapp3.1\Variable-DSPS.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\Variable-DSPS\obj\Debug\netcoreapp3.1\Variable-DSPS.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\Variable-DSPS\obj\Debug\netcoreapp3.1\Variable-DSPS.dll
+C:\Users\Ashton\source\repos\Variable-DSPS\obj\Debug\netcoreapp3.1\Variable-DSPS.pdb
+C:\Users\Ashton\source\repos\Variable-DSPS\obj\Debug\netcoreapp3.1\Variable-DSPS.genruntimeconfig.cache

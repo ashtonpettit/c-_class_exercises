@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\Leap_Year\bin\Debug\netcoreapp3.1\Leap_Year.exe
+C:\Users\Ashton\source\repos\Leap_Year\bin\Debug\netcoreapp3.1\Leap_Year.deps.json
+C:\Users\Ashton\source\repos\Leap_Year\bin\Debug\netcoreapp3.1\Leap_Year.runtimeconfig.json
+C:\Users\Ashton\source\repos\Leap_Year\bin\Debug\netcoreapp3.1\Leap_Year.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\Leap_Year\bin\Debug\netcoreapp3.1\Leap_Year.dll
+C:\Users\Ashton\source\repos\Leap_Year\bin\Debug\netcoreapp3.1\Leap_Year.pdb
+C:\Users\Ashton\source\repos\Leap_Year\obj\Debug\netcoreapp3.1\Leap_Year.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\Leap_Year\obj\Debug\netcoreapp3.1\Leap_Year.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\Leap_Year\obj\Debug\netcoreapp3.1\Leap_Year.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\Leap_Year\obj\Debug\netcoreapp3.1\Leap_Year.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\Leap_Year\obj\Debug\netcoreapp3.1\Leap_Year.dll
+C:\Users\Ashton\source\repos\Leap_Year\obj\Debug\netcoreapp3.1\Leap_Year.pdb
+C:\Users\Ashton\source\repos\Leap_Year\obj\Debug\netcoreapp3.1\Leap_Year.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\How_Many_Days\bin\Debug\netcoreapp3.1\How_Many_Days.exe
+C:\Users\Ashton\source\repos\How_Many_Days\bin\Debug\netcoreapp3.1\How_Many_Days.deps.json
+C:\Users\Ashton\source\repos\How_Many_Days\bin\Debug\netcoreapp3.1\How_Many_Days.runtimeconfig.json
+C:\Users\Ashton\source\repos\How_Many_Days\bin\Debug\netcoreapp3.1\How_Many_Days.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\How_Many_Days\bin\Debug\netcoreapp3.1\How_Many_Days.dll
+C:\Users\Ashton\source\repos\How_Many_Days\bin\Debug\netcoreapp3.1\How_Many_Days.pdb
+C:\Users\Ashton\source\repos\How_Many_Days\obj\Debug\netcoreapp3.1\How_Many_Days.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\How_Many_Days\obj\Debug\netcoreapp3.1\How_Many_Days.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\How_Many_Days\obj\Debug\netcoreapp3.1\How_Many_Days.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\How_Many_Days\obj\Debug\netcoreapp3.1\How_Many_Days.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\How_Many_Days\obj\Debug\netcoreapp3.1\How_Many_Days.dll
+C:\Users\Ashton\source\repos\How_Many_Days\obj\Debug\netcoreapp3.1\How_Many_Days.pdb
+C:\Users\Ashton\source\repos\How_Many_Days\obj\Debug\netcoreapp3.1\How_Many_Days.genruntimeconfig.cache

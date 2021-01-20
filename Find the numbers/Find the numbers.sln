@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find the numbers", "Find the numbers.csproj", "{10BE04F5-1751-4694-80A6-9CE398EC6FB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10BE04F5-1751-4694-80A6-9CE398EC6FB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10BE04F5-1751-4694-80A6-9CE398EC6FB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10BE04F5-1751-4694-80A6-9CE398EC6FB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10BE04F5-1751-4694-80A6-9CE398EC6FB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E111197-B4F3-4076-878F-20B5A6D1498F}
+	EndGlobalSection
+EndGlobal

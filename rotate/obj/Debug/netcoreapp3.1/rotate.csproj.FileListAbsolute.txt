@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\rotate\bin\Debug\netcoreapp3.1\rotate.exe
+C:\Users\Ashton\source\repos\rotate\bin\Debug\netcoreapp3.1\rotate.deps.json
+C:\Users\Ashton\source\repos\rotate\bin\Debug\netcoreapp3.1\rotate.runtimeconfig.json
+C:\Users\Ashton\source\repos\rotate\bin\Debug\netcoreapp3.1\rotate.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\rotate\bin\Debug\netcoreapp3.1\rotate.dll
+C:\Users\Ashton\source\repos\rotate\bin\Debug\netcoreapp3.1\rotate.pdb
+C:\Users\Ashton\source\repos\rotate\obj\Debug\netcoreapp3.1\rotate.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\rotate\obj\Debug\netcoreapp3.1\rotate.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\rotate\obj\Debug\netcoreapp3.1\rotate.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\rotate\obj\Debug\netcoreapp3.1\rotate.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\rotate\obj\Debug\netcoreapp3.1\rotate.dll
+C:\Users\Ashton\source\repos\rotate\obj\Debug\netcoreapp3.1\rotate.pdb
+C:\Users\Ashton\source\repos\rotate\obj\Debug\netcoreapp3.1\rotate.genruntimeconfig.cache

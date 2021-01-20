@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\Collections_November\bin\Debug\netcoreapp3.1\Collections_November.exe
+C:\Users\Ashton\source\repos\Collections_November\bin\Debug\netcoreapp3.1\Collections_November.deps.json
+C:\Users\Ashton\source\repos\Collections_November\bin\Debug\netcoreapp3.1\Collections_November.runtimeconfig.json
+C:\Users\Ashton\source\repos\Collections_November\bin\Debug\netcoreapp3.1\Collections_November.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\Collections_November\bin\Debug\netcoreapp3.1\Collections_November.dll
+C:\Users\Ashton\source\repos\Collections_November\bin\Debug\netcoreapp3.1\Collections_November.pdb
+C:\Users\Ashton\source\repos\Collections_November\obj\Debug\netcoreapp3.1\Collections_November.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\Collections_November\obj\Debug\netcoreapp3.1\Collections_November.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\Collections_November\obj\Debug\netcoreapp3.1\Collections_November.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\Collections_November\obj\Debug\netcoreapp3.1\Collections_November.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\Collections_November\obj\Debug\netcoreapp3.1\Collections_November.dll
+C:\Users\Ashton\source\repos\Collections_November\obj\Debug\netcoreapp3.1\Collections_November.pdb
+C:\Users\Ashton\source\repos\Collections_November\obj\Debug\netcoreapp3.1\Collections_November.genruntimeconfig.cache

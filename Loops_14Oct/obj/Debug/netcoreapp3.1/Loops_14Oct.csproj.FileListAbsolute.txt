@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\Loops_14Oct\bin\Debug\netcoreapp3.1\Loops_14Oct.exe
+C:\Users\Ashton\source\repos\Loops_14Oct\bin\Debug\netcoreapp3.1\Loops_14Oct.deps.json
+C:\Users\Ashton\source\repos\Loops_14Oct\bin\Debug\netcoreapp3.1\Loops_14Oct.runtimeconfig.json
+C:\Users\Ashton\source\repos\Loops_14Oct\bin\Debug\netcoreapp3.1\Loops_14Oct.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\Loops_14Oct\bin\Debug\netcoreapp3.1\Loops_14Oct.dll
+C:\Users\Ashton\source\repos\Loops_14Oct\bin\Debug\netcoreapp3.1\Loops_14Oct.pdb
+C:\Users\Ashton\source\repos\Loops_14Oct\obj\Debug\netcoreapp3.1\Loops_14Oct.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\Loops_14Oct\obj\Debug\netcoreapp3.1\Loops_14Oct.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\Loops_14Oct\obj\Debug\netcoreapp3.1\Loops_14Oct.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\Loops_14Oct\obj\Debug\netcoreapp3.1\Loops_14Oct.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\Loops_14Oct\obj\Debug\netcoreapp3.1\Loops_14Oct.dll
+C:\Users\Ashton\source\repos\Loops_14Oct\obj\Debug\netcoreapp3.1\Loops_14Oct.pdb
+C:\Users\Ashton\source\repos\Loops_14Oct\obj\Debug\netcoreapp3.1\Loops_14Oct.genruntimeconfig.cache

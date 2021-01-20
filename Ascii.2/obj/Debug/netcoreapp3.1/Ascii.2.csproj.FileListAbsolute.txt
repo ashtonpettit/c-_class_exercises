@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\Ascii.2\bin\Debug\netcoreapp3.1\Ascii.2.exe
+C:\Users\Ashton\source\repos\Ascii.2\bin\Debug\netcoreapp3.1\Ascii.2.deps.json
+C:\Users\Ashton\source\repos\Ascii.2\bin\Debug\netcoreapp3.1\Ascii.2.runtimeconfig.json
+C:\Users\Ashton\source\repos\Ascii.2\bin\Debug\netcoreapp3.1\Ascii.2.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\Ascii.2\bin\Debug\netcoreapp3.1\Ascii.2.dll
+C:\Users\Ashton\source\repos\Ascii.2\bin\Debug\netcoreapp3.1\Ascii.2.pdb
+C:\Users\Ashton\source\repos\Ascii.2\obj\Debug\netcoreapp3.1\Ascii.2.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\Ascii.2\obj\Debug\netcoreapp3.1\Ascii.2.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\Ascii.2\obj\Debug\netcoreapp3.1\Ascii.2.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\Ascii.2\obj\Debug\netcoreapp3.1\Ascii.2.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\Ascii.2\obj\Debug\netcoreapp3.1\Ascii.2.dll
+C:\Users\Ashton\source\repos\Ascii.2\obj\Debug\netcoreapp3.1\Ascii.2.pdb
+C:\Users\Ashton\source\repos\Ascii.2\obj\Debug\netcoreapp3.1\Ascii.2.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\Mock_Exam_One\bin\Debug\netcoreapp3.1\Mock_Exam_One.exe
+C:\Users\Ashton\source\repos\Mock_Exam_One\bin\Debug\netcoreapp3.1\Mock_Exam_One.deps.json
+C:\Users\Ashton\source\repos\Mock_Exam_One\bin\Debug\netcoreapp3.1\Mock_Exam_One.runtimeconfig.json
+C:\Users\Ashton\source\repos\Mock_Exam_One\bin\Debug\netcoreapp3.1\Mock_Exam_One.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\Mock_Exam_One\bin\Debug\netcoreapp3.1\Mock_Exam_One.dll
+C:\Users\Ashton\source\repos\Mock_Exam_One\bin\Debug\netcoreapp3.1\Mock_Exam_One.pdb
+C:\Users\Ashton\source\repos\Mock_Exam_One\obj\Debug\netcoreapp3.1\Mock_Exam_One.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\Mock_Exam_One\obj\Debug\netcoreapp3.1\Mock_Exam_One.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\Mock_Exam_One\obj\Debug\netcoreapp3.1\Mock_Exam_One.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\Mock_Exam_One\obj\Debug\netcoreapp3.1\Mock_Exam_One.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\Mock_Exam_One\obj\Debug\netcoreapp3.1\Mock_Exam_One.dll
+C:\Users\Ashton\source\repos\Mock_Exam_One\obj\Debug\netcoreapp3.1\Mock_Exam_One.pdb
+C:\Users\Ashton\source\repos\Mock_Exam_One\obj\Debug\netcoreapp3.1\Mock_Exam_One.genruntimeconfig.cache

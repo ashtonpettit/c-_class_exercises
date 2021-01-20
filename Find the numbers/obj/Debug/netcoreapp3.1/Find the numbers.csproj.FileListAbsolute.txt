@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\Find the numbers\bin\Debug\netcoreapp3.1\Find the numbers.exe
+C:\Users\Ashton\source\repos\Find the numbers\bin\Debug\netcoreapp3.1\Find the numbers.deps.json
+C:\Users\Ashton\source\repos\Find the numbers\bin\Debug\netcoreapp3.1\Find the numbers.runtimeconfig.json
+C:\Users\Ashton\source\repos\Find the numbers\bin\Debug\netcoreapp3.1\Find the numbers.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\Find the numbers\bin\Debug\netcoreapp3.1\Find the numbers.dll
+C:\Users\Ashton\source\repos\Find the numbers\bin\Debug\netcoreapp3.1\Find the numbers.pdb
+C:\Users\Ashton\source\repos\Find the numbers\obj\Debug\netcoreapp3.1\Find the numbers.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\Find the numbers\obj\Debug\netcoreapp3.1\Find the numbers.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\Find the numbers\obj\Debug\netcoreapp3.1\Find the numbers.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\Find the numbers\obj\Debug\netcoreapp3.1\Find the numbers.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\Find the numbers\obj\Debug\netcoreapp3.1\Find the numbers.dll
+C:\Users\Ashton\source\repos\Find the numbers\obj\Debug\netcoreapp3.1\Find the numbers.pdb
+C:\Users\Ashton\source\repos\Find the numbers\obj\Debug\netcoreapp3.1\Find the numbers.genruntimeconfig.cache

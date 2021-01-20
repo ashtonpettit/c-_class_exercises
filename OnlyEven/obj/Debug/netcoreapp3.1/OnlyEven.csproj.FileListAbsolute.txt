@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\OnlyEven\bin\Debug\netcoreapp3.1\OnlyEven.exe
+C:\Users\Ashton\source\repos\OnlyEven\bin\Debug\netcoreapp3.1\OnlyEven.deps.json
+C:\Users\Ashton\source\repos\OnlyEven\bin\Debug\netcoreapp3.1\OnlyEven.runtimeconfig.json
+C:\Users\Ashton\source\repos\OnlyEven\bin\Debug\netcoreapp3.1\OnlyEven.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\OnlyEven\bin\Debug\netcoreapp3.1\OnlyEven.dll
+C:\Users\Ashton\source\repos\OnlyEven\bin\Debug\netcoreapp3.1\OnlyEven.pdb
+C:\Users\Ashton\source\repos\OnlyEven\obj\Debug\netcoreapp3.1\OnlyEven.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\OnlyEven\obj\Debug\netcoreapp3.1\OnlyEven.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\OnlyEven\obj\Debug\netcoreapp3.1\OnlyEven.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\OnlyEven\obj\Debug\netcoreapp3.1\OnlyEven.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\OnlyEven\obj\Debug\netcoreapp3.1\OnlyEven.dll
+C:\Users\Ashton\source\repos\OnlyEven\obj\Debug\netcoreapp3.1\OnlyEven.pdb
+C:\Users\Ashton\source\repos\OnlyEven\obj\Debug\netcoreapp3.1\OnlyEven.genruntimeconfig.cache

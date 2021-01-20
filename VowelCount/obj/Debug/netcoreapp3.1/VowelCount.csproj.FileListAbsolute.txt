@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\VowelCount\bin\Debug\netcoreapp3.1\VowelCount.exe
+C:\Users\Ashton\source\repos\VowelCount\bin\Debug\netcoreapp3.1\VowelCount.deps.json
+C:\Users\Ashton\source\repos\VowelCount\bin\Debug\netcoreapp3.1\VowelCount.runtimeconfig.json
+C:\Users\Ashton\source\repos\VowelCount\bin\Debug\netcoreapp3.1\VowelCount.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\VowelCount\bin\Debug\netcoreapp3.1\VowelCount.dll
+C:\Users\Ashton\source\repos\VowelCount\bin\Debug\netcoreapp3.1\VowelCount.pdb
+C:\Users\Ashton\source\repos\VowelCount\obj\Debug\netcoreapp3.1\VowelCount.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\VowelCount\obj\Debug\netcoreapp3.1\VowelCount.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\VowelCount\obj\Debug\netcoreapp3.1\VowelCount.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\VowelCount\obj\Debug\netcoreapp3.1\VowelCount.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\VowelCount\obj\Debug\netcoreapp3.1\VowelCount.dll
+C:\Users\Ashton\source\repos\VowelCount\obj\Debug\netcoreapp3.1\VowelCount.pdb
+C:\Users\Ashton\source\repos\VowelCount\obj\Debug\netcoreapp3.1\VowelCount.genruntimeconfig.cache

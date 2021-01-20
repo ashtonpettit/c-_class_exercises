@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\Occurences\bin\Debug\netcoreapp3.1\Occurences.exe
+C:\Users\Ashton\source\repos\Occurences\bin\Debug\netcoreapp3.1\Occurences.deps.json
+C:\Users\Ashton\source\repos\Occurences\bin\Debug\netcoreapp3.1\Occurences.runtimeconfig.json
+C:\Users\Ashton\source\repos\Occurences\bin\Debug\netcoreapp3.1\Occurences.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\Occurences\bin\Debug\netcoreapp3.1\Occurences.dll
+C:\Users\Ashton\source\repos\Occurences\bin\Debug\netcoreapp3.1\Occurences.pdb
+C:\Users\Ashton\source\repos\Occurences\obj\Debug\netcoreapp3.1\Occurences.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\Occurences\obj\Debug\netcoreapp3.1\Occurences.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\Occurences\obj\Debug\netcoreapp3.1\Occurences.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\Occurences\obj\Debug\netcoreapp3.1\Occurences.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\Occurences\obj\Debug\netcoreapp3.1\Occurences.dll
+C:\Users\Ashton\source\repos\Occurences\obj\Debug\netcoreapp3.1\Occurences.pdb
+C:\Users\Ashton\source\repos\Occurences\obj\Debug\netcoreapp3.1\Occurences.genruntimeconfig.cache

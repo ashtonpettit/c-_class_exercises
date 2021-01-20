@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\Sum_loop\bin\Debug\netcoreapp3.1\Sum_loop.exe
+C:\Users\Ashton\source\repos\Sum_loop\bin\Debug\netcoreapp3.1\Sum_loop.deps.json
+C:\Users\Ashton\source\repos\Sum_loop\bin\Debug\netcoreapp3.1\Sum_loop.runtimeconfig.json
+C:\Users\Ashton\source\repos\Sum_loop\bin\Debug\netcoreapp3.1\Sum_loop.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\Sum_loop\bin\Debug\netcoreapp3.1\Sum_loop.dll
+C:\Users\Ashton\source\repos\Sum_loop\bin\Debug\netcoreapp3.1\Sum_loop.pdb
+C:\Users\Ashton\source\repos\Sum_loop\obj\Debug\netcoreapp3.1\Sum_loop.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\Sum_loop\obj\Debug\netcoreapp3.1\Sum_loop.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\Sum_loop\obj\Debug\netcoreapp3.1\Sum_loop.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\Sum_loop\obj\Debug\netcoreapp3.1\Sum_loop.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\Sum_loop\obj\Debug\netcoreapp3.1\Sum_loop.dll
+C:\Users\Ashton\source\repos\Sum_loop\obj\Debug\netcoreapp3.1\Sum_loop.pdb
+C:\Users\Ashton\source\repos\Sum_loop\obj\Debug\netcoreapp3.1\Sum_loop.genruntimeconfig.cache

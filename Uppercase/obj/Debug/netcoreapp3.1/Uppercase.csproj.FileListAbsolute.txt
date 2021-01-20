@@ -1,0 +1,13 @@
+C:\Users\Ashton\source\repos\Uppercase\bin\Debug\netcoreapp3.1\Uppercase.exe
+C:\Users\Ashton\source\repos\Uppercase\bin\Debug\netcoreapp3.1\Uppercase.deps.json
+C:\Users\Ashton\source\repos\Uppercase\bin\Debug\netcoreapp3.1\Uppercase.runtimeconfig.json
+C:\Users\Ashton\source\repos\Uppercase\bin\Debug\netcoreapp3.1\Uppercase.runtimeconfig.dev.json
+C:\Users\Ashton\source\repos\Uppercase\bin\Debug\netcoreapp3.1\Uppercase.dll
+C:\Users\Ashton\source\repos\Uppercase\bin\Debug\netcoreapp3.1\Uppercase.pdb
+C:\Users\Ashton\source\repos\Uppercase\obj\Debug\netcoreapp3.1\Uppercase.csprojAssemblyReference.cache
+C:\Users\Ashton\source\repos\Uppercase\obj\Debug\netcoreapp3.1\Uppercase.AssemblyInfoInputs.cache
+C:\Users\Ashton\source\repos\Uppercase\obj\Debug\netcoreapp3.1\Uppercase.AssemblyInfo.cs
+C:\Users\Ashton\source\repos\Uppercase\obj\Debug\netcoreapp3.1\Uppercase.csproj.CoreCompileInputs.cache
+C:\Users\Ashton\source\repos\Uppercase\obj\Debug\netcoreapp3.1\Uppercase.dll
+C:\Users\Ashton\source\repos\Uppercase\obj\Debug\netcoreapp3.1\Uppercase.pdb
+C:\Users\Ashton\source\repos\Uppercase\obj\Debug\netcoreapp3.1\Uppercase.genruntimeconfig.cache
